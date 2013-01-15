@@ -1,0 +1,12 @@
+# Logfile created on 2013-01-14 23:53:20 -0500 by logger.rb/31641
+127.0.0.1 - - [14/Jan/2013 23:53:22] "HEAD /snapshots/com.voxeo.phono/phono-gateway-assembled-x86_64.tgz HTTP/1.1" 200 6147315 0.5834
+127.0.0.1 - - [14/Jan/2013 23:59:01] "HEAD /snapshots/com.voxeo.phono/phono-gateway-assembled-x86_64.tgz HTTP/1.1" 200 6147315 0.3268
+I, [2013-01-15T00:01:10.175358 #68979]  INFO -- : HTTPI HEAD request to maven.voxeolabs.net (net_http)
+I, [2013-01-15T00:01:10.617029 #68979]  INFO -- : HTTPI HEAD request to maven.voxeolabs.net (net_http)
+127.0.0.1 - - [15/Jan/2013 00:01:10] "HEAD /snapshots/com.voxeo.phono/phono-gateway-assembled-x86_64.tgz HTTP/1.1" 200 6147315 0.5381
+127.0.0.1 - - [15/Jan/2013 00:01:35] "HEAD /snapshots/com.voxeo.phono/phono-gateway-assembled-x86_64.tgz HTTP/1.1" 200 6147315 0.2313
+127.0.0.1 - - [15/Jan/2013 00:02:00] "HEAD /snapshots/com.voxeo.phono/phono-gateway-assembled-x86_64.tgz HTTP/1.1" 200 6147315 0.1718
+127.0.0.1 - - [15/Jan/2013 00:02:16] "HEAD /snapshots/com.voxeo.phono/phono-gateway-assembled-x86_64.tgz HTTP/1.1" 200 6147315 0.5075
+127.0.0.1 - - [15/Jan/2013 00:02:51] "HEAD /snapshots/com.voxeo.phono/phono-gateway-assembled-x86_64.tgz HTTP/1.1" 200 6147315 0.1841
+127.0.0.1 - - [15/Jan/2013 00:03:03] "HEAD /snapshots/com.voxeo.phono/phono-gateway-assembled-x86_64.tgz HTTP/1.1" 200 6147315 0.1796
+127.0.0.1 - - [15/Jan/2013 00:03:05] "HEAD /snapshots/com.voxeo.phono/phono-gateway-assembled-x86_64.tgz HTTP/1.1" 200 6147315 0.1522

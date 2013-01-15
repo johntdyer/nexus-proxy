@@ -1,0 +1,3 @@
+username: user
+password: abc123
+server: http://maven.server.com:8081/nexus
