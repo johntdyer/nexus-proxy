@@ -1,4 +1,4 @@
-%w(sinatra bundler httpi json logger yaml shotgun).each{|lib| require lib }
+%w(sinatra bundler rack httpi json logger yaml).each{|lib| require lib }
 
 Bundler.require
 
@@ -12,10 +12,10 @@ logger  = ::Logger.new(logfile,'weekly')
 
 use Rack::CommonLogger, logger
 
-
 enable :logging, :dump_errors
 set :raise_errors, true
 
 require ::File.join(root,'nexus')
+
 
 run NexusProxy
